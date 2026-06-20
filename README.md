@@ -100,7 +100,7 @@ idp-final-project-25-26-jackt-abhinavb/
 │
 └── final_report/                 # Phase 3: Analysis & visualizations
     ├── README.md                 # Plot documentation & findings
-    ├── final.md                  # Written research report
+    ├── Final Report.pdf          # Written Research report
     ├── create_plots.py           # RUN THIS to generate all plots
     └── plots/                    # Generated visualization images
 ```
